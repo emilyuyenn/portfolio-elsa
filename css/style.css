@@ -41,7 +41,7 @@ html {
   /* background-repeat: no-repeat; */
   width: 150px;
   height: 150px;
-  background-size: contain;
+  background-size: cover;
   border-radius: 50%;
 }
 .author-name {
